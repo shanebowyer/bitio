@@ -1,0 +1,885 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ms",
+				"msgIn"
+			],
+			[
+				"error",
+				"errorMessage"
+			],
+			[
+				"des",
+				"destinationAddress"
+			],
+			[
+				"scal",
+				"scaleHi"
+			],
+			[
+				"msgou",
+				"msgOut"
+			],
+			[
+				"msg",
+				"msgOutSetPointLow"
+			],
+			[
+				"spL",
+				"spLowReached"
+			],
+			[
+				"sph",
+				"spHiReached"
+			],
+			[
+				"desti",
+				"destinationAddress"
+			],
+			[
+				"pro",
+				"processMessageIn"
+			],
+			[
+				"mod",
+				"moduleTemplate"
+			],
+			[
+				"msgI",
+				"msgId"
+			],
+			[
+				"Di",
+				"DigitalsIn"
+			],
+			[
+				"tem",
+				"ioTemplateTCPMODMUXDIO8"
+			],
+			[
+				"arrc",
+				"arrCurrentStatus"
+			],
+			[
+				"read",
+				"readSettings"
+			],
+			[
+				"der",
+				"deferred"
+			],
+			[
+				"defer",
+				"deferred"
+			],
+			[
+				"proce",
+				"processOption"
+			],
+			[
+				"retu",
+				"returnValue"
+			],
+			[
+				"Zone",
+				"ZonePoints"
+			],
+			[
+				"Z",
+				"ZoneID"
+			],
+			[
+				"data",
+				"dataID"
+			],
+			[
+				"db",
+				"stageDBCall"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"IOTy",
+				"IOType"
+			],
+			[
+				"make",
+				"makeSenseOfRawData"
+			],
+			[
+				"this",
+				"thisIOid"
+			],
+			[
+				"arr",
+				"arrCurrentStatus"
+			],
+			[
+				"Mod",
+				"ModuleAddress"
+			],
+			[
+				"wr",
+				"WriteRegister"
+			],
+			[
+				"back",
+				"backpupSettings"
+			],
+			[
+				"writ",
+				"writeSettings"
+			],
+			[
+				"rea",
+				"readSettings"
+			],
+			[
+				"re",
+				"readSettings"
+			],
+			[
+				"save",
+				"saveSettings"
+			],
+			[
+				"pu",
+				"pubIO"
+			],
+			[
+				"ip",
+				"ipAddress"
+			],
+			[
+				"selectedip",
+				"selectedioType"
+			],
+			[
+				"sele",
+				"selecteddescription"
+			],
+			[
+				"io",
+				"ioType"
+			],
+			[
+				"conp",
+				"componentsSettings"
+			],
+			[
+				"conn",
+				"connect"
+			],
+			[
+				"get",
+				"getAbsolutePath"
+			],
+			[
+				"setting",
+				"settingsView"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"ho",
+				"homeView"
+			],
+			[
+				"hom",
+				"home"
+			],
+			[
+				"s",
+				"stateProvider"
+			],
+			[
+				"se",
+				"settingsView"
+			],
+			[
+				"home",
+				"homeView"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"my",
+				"myIO"
+			],
+			[
+				"Analo",
+				"Analog0"
+			],
+			[
+				"ret",
+				"retErr"
+			],
+			[
+				"Set",
+				"SETINGS"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"process",
+				"processReadLogs"
+			],
+			[
+				"th",
+				"Three"
+			],
+			[
+				"tr",
+				"Three"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"sk",
+				"skill"
+			],
+			[
+				"ski",
+				"skillsArr"
+			],
+			[
+				"contro",
+				"controllerCV"
+			],
+			[
+				"state",
+				"stateProvider"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-style"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/services/services.js",
+			"settings":
+			{
+				"buffer_size": 2660,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "script/api.js",
+			"settings":
+			{
+				"buffer_size": 3427,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bitio.js",
+			"settings":
+			{
+				"buffer_size": 8482,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/components/test/testView.html",
+			"settings":
+			{
+				"buffer_size": 89,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/components/test/testController.js",
+			"settings":
+			{
+				"buffer_size": 840,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 177.0,
+		"last_filter": "remove",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/shane/Documents/GitCode/bitio",
+		"/home/shane/Documents/GitCode/bitio/app/components",
+		"/home/shane/Documents/GitCode/bitio/app/components/shared",
+		"/home/shane/Documents/GitCode/bitio/app/components/shared/menu",
+		"/home/shane/Documents/GitCode/bitio/app/components/test",
+		"/home/shane/Documents/GitCode/bitio/app/services",
+		"/home/shane/Documents/GitCode/bitio/script"
+	],
+	"file_history":
+	[
+		"/home/shane/Documents/GitCode/bitio/app/components/appController.js",
+		"/home/shane/Documents/GitCode/bitio/app/default.html",
+		"/home/shane/Documents/GitCode/bitio/app/components/shared/menu/menuView.html",
+		"/home/shane/Documents/GitCode/bitio/app/app.module.js",
+		"/home/shane/Documents/GitCode/bitio/app/components/testController.js",
+		"/home/shane/Documents/GitCode/bitio/app/components/testView.html",
+		"/home/shane/Documents/GitCode/bitio/app/app.routes.js",
+		"/home/shane/Documents/GitCode/bitio/script/mongo.js",
+		"/home/shane/Documents/GitCode/bitio/script/bll.js",
+		"/home/shane/Documents/GitCode/bitio/script/api.js",
+		"/home/shane/Documents/GitCode/bitio/bitio.js",
+		"/home/shane/Documents/GitCode/bitio/default.html",
+		"/home/shane/Documents/GitCode/bitio/package.json",
+		"/home/shane/Documents/GitCode/bitio/config.js",
+		"/home/shane/Documents/GitCode/bitio/script/settings.js",
+		"/home/shane/Documents/GitCode/bitio/config_template.js",
+		"/home/shane/Documents/GitCode/bitio/.gitignore",
+		"/home/shane/Documents/GitCode/rtu/app/components/home/homeView.html",
+		"/home/shane/Documents/GitCode/rtu/app/components/home/homeController.js",
+		"/home/shane/Documents/GitCode/rtu/script/io.js",
+		"/home/shane/Documents/GitCode/rtu/script/websvrcomms.js",
+		"/home/shane/Documents/GitCode/rtu/app/components/settings/settingsController.js",
+		"/home/shane/Documents/GitCode/rtu/script/plc.js",
+		"/home/shane/Documents/GitCode/rtu/script/rtulog.js",
+		"/home/shane/Documents/GitCode/rtu/app/components/settings/settingsView.html",
+		"/home/shane/Documents/GitCode/rtu/rtu.js",
+		"/home/shane/Documents/GitCode/rtu/config.js",
+		"/home/shane/Documents/GitCode/rtu/.gitignore",
+		"/home/shane/Documents/GitCode/rtu/config_template.js",
+		"/home/shane/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/shane/Documents/GitCode/rtu/config (6th copy).js",
+		"/home/shane/Documents/GitCode/rtu/app/components/settings/backup.js",
+		"/home/shane/Documents/GitCode/realtrack/realtrack/app/Script/zones/zonesController.js",
+		"/home/shane/Documents/GitCode/xastris/package.json",
+		"/home/shane/Documents/GitCode/rtu/script/server.js",
+		"/home/shane/Documents/GitCode/rtu/app/app.module.js",
+		"/home/shane/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/shane/Documents/GitCode/rtu/script/tcpclient.js",
+		"/home/shane/Documents/GitCode/rtu/app/services/services.js",
+		"/home/shane/Documents/GitCode/rtu/script/settings.js",
+		"/home/shane/Documents/GitCode/rtu/script/iomodbustcp.js",
+		"/home/shane/Documents/GitCode/rtu/config_Wed Apr 06 2016 20:08:37 GMT+0200 (SAST).bak",
+		"/home/shane/Documents/GitCode/rtu/config_Mon Apr 18 2016 21:08:24 GMT+0200 (SAST).bak",
+		"/home/shane/.config/sublime-text-3/Packages/JSLint/JSLint.sublime-settings",
+		"/home/shane/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/shane/.config/sublime-text-3/Packages/User/JSLint.sublime-settings",
+		"/home/shane/Documents/GitCode/realtrack/realtrack/app/Script/zones/zones.module.js",
+		"/home/shane/Documents/GitCode/xastris/parser/pre/mssqlRealTrack.js",
+		"/home/shane/Documents/GitCode/xastris/.gitignore",
+		"/home/shane/Documents/GitCode/xastris/parser/pre/userLogin.js",
+		"/home/shane/Documents/GitCode/xastris/parser/pre/userAuth.js",
+		"/home/shane/Documents/GitCode/xastris/local_resources/Apps/ShaneTest/Script/App.js",
+		"/home/shane/Documents/GitCode/xastris/local_resources/Apps/ShaneTest/Resources/index.html",
+		"/home/shane/Documents/GitCode/xastris/parser/__xaf_Parser.js",
+		"/home/shane/Documents/GitCode/xastris/ServiceHandler.js",
+		"/home/shane/Documents/GitCode/xastris/local_resources/Apps/ShaneTest/Script/AppCore.js",
+		"/home/shane/Documents/GitCode/xastris/local_resources/Script/ClientConfig.js",
+		"/home/shane/Documents/GitCode/xastris/local_resources/Apps/PrePaidVendingV1/Script/AppCore.js",
+		"/home/shane/Documents/GitCode/rtu/config_Sun Apr 03 2016 14:38:17 GMT+0200 (SAST).js",
+		"/home/shane/Documents/GitCode/rtu/script/iomodbusserial.js",
+		"/home/shane/Documents/GitCode/rtu/script/iomodbustcpslave.js",
+		"/home/shane/Documents/GitCode/rtu/script/rs232.js",
+		"/home/shane/Documents/GitCode/rtu/script/controller.js",
+		"/home/shane/Documents/GitCode/rtu/config (copy).js",
+		"/home/shane/Documents/GitCode/rtu/gulpfile.js",
+		"/home/shane/Documents/GitCode/rtu/app/index.html",
+		"/home/shane/Documents/GitCode/rtu/app/components/shared/menu/menuView.html",
+		"/home/shane/Documents/GitCode/rtu/app/assets/css/style.css",
+		"/home/shane/Documents/GitCode/rtu/script/tcpsvr.js",
+		"/home/shane/Documents/GitCode/rtu/app/components/appController.js",
+		"/home/shane/Documents/GitCode/rtu/app/app.routes.js",
+		"/home/shane/Documents/GitCode/rtu/app/assets/libs/ui-router.js",
+		"/home/shane/Documents/GitCode/rtu/app/assets/js/apprtu.js",
+		"/home/shane/Documents/GitCode/rtu/apps/scripts/app.js",
+		"/home/shane/Documents/GitCode/rtu/apps/settings.html",
+		"/home/shane/Documents/GitCode/rtu/apps/scripts/settings.js",
+		"/home/shane/Documents/GitCode/rtu/script/io_backup.js",
+		"/home/shane/Documents/GitCode/rtu/script/TestEdgar.js",
+		"/home/shane/Documents/GitCode/rtu/test.js",
+		"/home/shane/Documents/GitCode/xastris/ServerConfig.js",
+		"/home/shane/Documents/GitCode/rtu/config/config.json",
+		"/home/shane/Documents/GitCode/rtu/apps/scripts/myCanvas.js",
+		"/home/shane/Documents/SVN Code/RMC Projects/RTU/apps/scripts/myCanvas.js",
+		"/home/shane/Documents/GitCode/xastris/framework_modules/logger.js",
+		"/home/shane/Documents/GitCode/xastris/parser/pre/readLogs.js",
+		"/home/shane/Documents/GitCode/xastris/parser/pre/prePrePaidVendingV1.js",
+		"/home/shane/Documents/GitCode/xastris/Framework/ApplicationCore/Script/AppCore.js",
+		"/home/shane/Documents/GitCode/xastris/local_resources/Apps/LogReader/Script/AppCore.js",
+		"/home/shane/Documents/ShaneCV/app/index.html",
+		"/home/shane/Documents/ShaneCV/gulpfile.js",
+		"/home/shane/Documents/ShaneCV/index.html"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/shane/Documents/GitCode/bitio",
+			"/home/shane/Documents/GitCode/rtu/script",
+			"/home/shane/Documents/GitCode/rtu",
+			"/home/shane/Documents/GitCode/rtu/script",
+			"/home/shane/Documents/GitCode/realtrack/realtrack/app/Script/zones",
+			"/home/shane/Documents/GitCode/rtu",
+			"/home/shane/Documents/GitCode/rtu/script",
+			"/home/shane/Documents/GitCode/rtu",
+			"/home/shane/Documents/GitCode/rtu/script",
+			"/home/shane/Documents/GitCode/rtu",
+			"/home/shane/Documents/GitCode/xastris",
+			"/home/shane/Documents/GitCode/rtu/script",
+			"/home/shane/Documents/GitCode/rtu",
+			"/home/shane/Documents/GitCode/rtu/app",
+			"/home/shane/Documents/GitCode/rtu",
+			"/home/shane/Documents/GitCode/rtu/script",
+			"/home/shane/Documents/GitCode/rtu",
+			"/home/shane/Documents/GitCode/rtu/script",
+			"/home/shane/Documents/GitCode/rtu",
+			"/home/shane/Documents/SVN Code/RMC Projects/RTU",
+			"/home/shane/Documents/GitCode/xastris"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"appCtrl",
+			"api",
+			"myPlc",
+			"args[3] == 'unde",
+			"settings",
+			"rtu",
+			"Adding this to the",
+			"digout",
+			"processMessageIn",
+			"socket",
+			"add",
+			"debugger",
+			".input2",
+			"[0]",
+			".input1.",
+			"scaling.input1.",
+			"input1",
+			"<select",
+			"optionsIO",
+			"type",
+			"controlType",
+			"option",
+			"img",
+			"reservoirSPIO",
+			"ng-model=\"selectedControl.Reservoir",
+			"selectedControl.",
+			"ng-model=\"selectedControl",
+			"selectedControl",
+			"selected",
+			"selecteddescription",
+			"selectedSite",
+			"selectedSiteIpAddress",
+			"selectedSite",
+			"socketPort",
+			"rtuId",
+			"$scope.selectedControl",
+			"selectedControlType",
+			" $scope.selectedControlType",
+			"$scope.selectedControl",
+			"controlItem",
+			"$scope.selectedControl",
+			"$scope.",
+			"=",
+			"find",
+			"_find",
+			"192.168.1.224",
+			"selectedControlType",
+			"Reservoir",
+			"Low",
+			"Reservoir",
+			"selectedControl",
+			".io[",
+			"debugger;",
+			"console.log",
+			"debugger;",
+			"settings",
+			"__settings",
+			"senging",
+			"calculateCRC",
+			"start",
+			"digitalsIn",
+			"the following response",
+			"msgIn.payLoad.",
+			"msgIn.",
+			"noise",
+			"console.log",
+			"debugger",
+			"DigitalsIn",
+			"TCPMODMUXDIO8",
+			"moduleTemplate",
+			"io",
+			"myLog",
+			"rtulog",
+			"start",
+			"WriteRegister",
+			"debugger",
+			"then",
+			"init settings",
+			"backpupSettings",
+			"sending socketio data to client",
+			"socketio server",
+			"test socketio server",
+			"test socketio server data reveived",
+			"iomodbustcp data error",
+			"finish",
+			"here5",
+			"index-1",
+			"prev",
+			"debugger;",
+			"\n                        ",
+			");\n",
+			":",
+			":]",
+			");\n",
+			"rawData",
+			"ioTemplateStatus",
+			"arrCurrentStatus",
+			"result",
+			"processData",
+			"console.log(",
+			"arrCurrentStatus",
+			"data:",
+			"new date",
+			"date",
+			"data.content.",
+			"settings.readSettings",
+			"settings.",
+			"settings",
+			"the following error",
+			"processAPICall",
+			"the following error",
+			"require(__base + '/config.js')",
+			"the following error",
+			"settings",
+			"/config.js",
+			"config.js",
+			"ControlModbusIO",
+			"next1",
+			"story",
+			"thisIO",
+			"io",
+			"settings.search",
+			"settings.modbus",
+			"settings.io",
+			"settings.local",
+			"ipAddress",
+			"settings.remotewebserver",
+			"settings.remoteweb"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"data.content.value.",
+			"data.content.value",
+			"__xaf_ReadLogs"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/services/services.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2315,
+								2315
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1008.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "script/api.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1363,
+								1363
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 756.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "bitio.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5441,
+								5441
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2793.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/components/test/testView.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 89,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/components/test/testController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 840,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								494,
+								494
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 139.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bitio.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

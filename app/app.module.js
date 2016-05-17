@@ -1,0 +1,47 @@
+angular.module('myApp', ['ui.router'])
+.run(function($rootScope, $state) {
+    $rootScope.header = {UserName:'paul@realtimesolutions.co.za', Password:'story', System:'RC'};
+    $rootScope.divErrorTimeout = 1000;
+    // $rootScope.io = io.connect('http://localhost:8000');
+    // $rootScope.io.on('connect',function(data){
+    //     console.log('Client Connected to Server socketio');
+    //     $rootScope.io.on('message',function(data){
+    //         console.log('socketio server data reveived',data);
+    //     });
+    // });
+
+})
+.config(function($stateProvider, $urlRouterProvider){
+    $stateProvider
+        .state('app', {
+            url: "/app",
+            abstract:true,
+            templateUrl: "components/shared/menu/menuView.html",
+            controller: 'appController'            
+        })
+
+        .state('app.test', {
+            url:'/test',
+            views: {
+                'main': {
+                    controller: 'testController',
+                    templateUrl:'components/test/testView.html'
+                }
+            }
+        })
+        .state('app.settings', {
+            url:'/settings',
+            views: {
+                'main': {
+                    controller: 'settingsCtrl',
+                    templateUrl:'components/settings/settingsView.html'
+                }
+            }
+        })        
+
+
+     $urlRouterProvider.otherwise('app/test');
+});
+
+
+
